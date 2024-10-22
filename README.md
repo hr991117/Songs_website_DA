@@ -1,4 +1,4 @@
-# Important Note - SQL Script
+# Song Website Data Anlysis - SQL Script
 
 ## Overview
 This SQL script (Important Note.sql) is designed for analyzing user interaction and engagement data on a song website. The script plays a crucial role in preparing the database for detailed analysis, helping to uncover key insights about user behavior and trends on the platform.
