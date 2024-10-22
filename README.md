@@ -25,6 +25,3 @@ This SQL script (Important Note.sql) is designed for analyzing user interaction 
 - Before executing the script, ensure that you have taken a backup of your database to avoid data loss.
 - Verify the database schema to ensure compatibility with the script.
   
----
-
-Feel free to adjust this README file based on the actual contents of your SQL script.
